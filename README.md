@@ -6,6 +6,7 @@
 
 - [`latest` (*Dockerfile*)](https://github.com/eea/eea.docker.pylint/blob/master/Dockerfile)
 - [`1.7.2.2` (*Dockerfile*)](https://github.com/eea/eea.docker.pylint/blob/1.7.2.2/Dockerfile)
+- [`1.9.5` (*Dockerfile*)](https://github.com/eea/eea.docker.pylint/blob/1.9.5/Dockerfile)
 
 ## Usage
 
